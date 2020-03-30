@@ -25,7 +25,6 @@ class ShoppingList extends Component {
         const { items } = this.props.item;
         return (
             <Container>
-
                 <ListGroup>
                     <TransitionGroup className="shopping-list">
                         {items.map(({ id, name }) => (
