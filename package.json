@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/AndreTheTallGuy/ShoppingList/issues"
   },
-  "homepage": "https://github.com/AndreTheTallGuy/ShoppingList#readme"
+  "homepage": "https://github.com/AndreTheTallGuy/ShoppingList#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
